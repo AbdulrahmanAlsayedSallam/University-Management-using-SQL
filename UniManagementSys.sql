@@ -1,8 +1,8 @@
 -- Create database
--- CREATE DATABASE IF NOT EXISTS university_management;
+CREATE DATABASE IF NOT EXISTS university_management;
 
 -- Use the created database
--- USE university_management;
+USE university_management;
 
 -- Table for faculties
 CREATE TABLE IF NOT EXISTS faculties (
