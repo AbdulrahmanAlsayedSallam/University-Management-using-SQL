@@ -1,5 +1,4 @@
 # University-Management-using-SQL
-
 # Overview
 The University Management System is designed to manage and streamline various academic and administrative operations within a university. It handles data related to faculties, students, professors, courses, enrollments, grades, rooms, examinations, fee payments, and scholarships. This system ensures efficient data management and retrieval, supporting the university's operational needs.
 
